@@ -94,3 +94,17 @@ Batman/
 This project provided practical experience in transforming a **2D graphical design into a 3D CAD model**. It strengthened my understanding of Onshape's sketching and modeling tools while improving my ability to create accurate and recognizable 3D geometry.
 
 The project also demonstrates how CAD software can be used to transform simple sketches into models suitable for further development or **3D printing**.
+
+---
+
+## 🔗 Onshape Design Link
+https://cad.onshape.com/documents/07e110e08c79e1c4b25b4bdb/w/d94e6fc83b5c875f73eeec38/e/80c8f7412dd0dbb13cf32e79?renderMode=0&uiState=6a77bcb7897cb250d58cc3d3
+
+---
+
+## 👨‍💻 Author
+
+**Fahad**
+
+**Cybersecurity Student**
+
